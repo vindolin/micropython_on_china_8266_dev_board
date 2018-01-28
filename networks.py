@@ -1,1 +1,4 @@
-/home/tulpe/Dropbox/code/micropython/libs/networks.py
+networks = [
+    ['my_first_wifi', 'secretpassword'],
+    ['my_second_wifi', 'moresecret'],
+]
